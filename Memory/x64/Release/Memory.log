@@ -1,0 +1,10 @@
+﻿  Memory.cpp
+D:\C++\Memory\Memory\Memory.cpp(82,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++\Memory\Memory\Memory.cpp(224,25): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\C++\Memory\Memory\Memory.cpp(253,28): warning C4244: аргумент: преобразование "time_t" в "int", возможна потеря данных
+  Создание кода
+  1 of 16 functions ( 6.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Memory.vcxproj -> D:\C++\Memory\x64\Release\Memory.exe

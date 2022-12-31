@@ -1,0 +1,5 @@
+﻿  Memory.cpp
+D:\C++\Memory\Memory\Memory.cpp(82,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++\Memory\Memory\Memory.cpp(224,25): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\C++\Memory\Memory\Memory.cpp(253,28): warning C4244: аргумент: преобразование "time_t" в "int", возможна потеря данных
+  Memory.vcxproj -> D:\C++\Memory\x64\Debug\Memory.exe
